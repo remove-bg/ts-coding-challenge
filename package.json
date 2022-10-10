@@ -4,6 +4,7 @@
   "description": "A coding challenge for kaleido",
   "main": "index.js",
   "scripts": {
+    "type-check": "tsc --noEmit",
     "lint": "eslint . --ext .ts",
     "test": "jest",
     "test:dev": "jest --watchAll"
