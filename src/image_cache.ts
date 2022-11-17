@@ -30,6 +30,7 @@ export class ImageCache {
    * @returns A reference to the location on disk which this image can be accessed at.
    */
   public async lease(url: string): Promise<string> {
+    // Only here to satisfy the compiler
     return Promise.resolve(url);
   }
 
@@ -42,6 +43,7 @@ export class ImageCache {
    */
   public release(url: string): void {
     // eslint-disable-next-line no-console
+    // Only here to satisfy the compiler
     console.log('release', url);
   }
 }
