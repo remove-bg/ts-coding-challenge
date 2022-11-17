@@ -10,7 +10,7 @@ This problem involves writing some Typescript code to implement a filesystem bas
 
 ### Environment
 
-- IDE and Ruby 3 environment. VSCode or IntelliJ free community versions work fine.
+- IDE and NodeJS. VSCode or IntelliJ free community versions work fine.
 - [VSCode](https://code.visualstudio.com/)
 - [IntelliJ](https://www.jetbrains.com/idea/)
 
