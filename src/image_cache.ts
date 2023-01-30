@@ -42,8 +42,8 @@ export class ImageCache {
    * @param url The url of the image that was leased.
    */
   public release(url: string): void {
-    // eslint-disable-next-line no-console
     // Only here to satisfy the compiler
+    // eslint-disable-next-line no-console
     console.log('release', url);
   }
 }
