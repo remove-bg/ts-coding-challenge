@@ -14,6 +14,12 @@ This problem involves writing some Typescript code to implement a filesystem bas
 - [VSCode](https://code.visualstudio.com/)
 - [IntelliJ](https://www.jetbrains.com/idea/)
 
+### Quickstart guide
+
+- Clone this repo
+- Run `yarn install` to install dependencies
+- Run `yarn test` to run the tests
+
 ### Background knowledge
 
 Kaleido/Canva is a very visual product, there are lots of images involved. Many of our backend services
